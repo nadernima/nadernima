@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nadernima
 - 👀 I’m interested in learning web development, cyber security, networking, blockchain development, ethical hacking and artificial intelligence. 
-- 🌱 I’m currently learning Meat's beginner-level course on Coursera for front-end web development.
+- 🌱 I’m currently learning Meat's beginner-level course on Coursera front-end web development.
 - 💞️ 
 - 📫 How to reach me: nadernima0003@gmail.com
 
